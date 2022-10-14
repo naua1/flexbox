@@ -1,2 +1,3 @@
 # flexbox
- estudo, essa página já existe, eu refiz ela para pratica 
+recriei essa essa página que já existe com intuito de estudo, eu refiz ela com HTML/CSS
+ 
